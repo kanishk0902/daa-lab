@@ -3,9 +3,6 @@
 Lab programs for **Experiments 1–11 and Assessment I**, B.Tech CCE, Manipal University Jaipur
 (Aug'26 – Nov'26) — by Kanishk Satyajit Das.
 
-All programs are written in **Python 3** from scratch, following the lab rule of *no in-built
-helpers for the algorithm itself*: sorting, heaps, hash tables, BSTs and graph algorithms are all
-implemented by hand (`minheap.py` replaces `heapq`). Each file prints the sample input/output given in the lab handout and then plots the running-time graphs.
 
 ## Run
 
